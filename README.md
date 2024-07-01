@@ -1,2 +1,2 @@
 # cookie-clicker-rpa
-An RPA application in Selenium with C# for Cookie Clicker
+Two RPA application in Selenium Framework and Easy Automation Framework with C# for Cookie Clicker
